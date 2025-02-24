@@ -7,7 +7,7 @@ btn.addEventListener('click',function() {
   const div = document.querySelector('div');
   div.style.backgroundColor = randomColor;
 
-  //console.log("Color updated")
+  //console.log("Color changed!")
 })
 
 function getRandomColor(){
